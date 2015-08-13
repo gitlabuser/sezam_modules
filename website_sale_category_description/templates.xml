@@ -1,7 +1,7 @@
 <openerp>
     <data>
         <template id="website_sale_category_description" inherit_id="website_sale.products">
-            <xpath expr="//div[@id='products_grid']" position="before">
+            <xpath expr="//div[@id='products_grid']" position="after">
                 <div t-if="category" class="oe_structure col-md-9">
                     <div t-field="category.description" />
                 </div>
