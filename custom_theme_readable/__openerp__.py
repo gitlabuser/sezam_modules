@@ -1,5 +1,5 @@
 {
-    'name' : 'Custom theme readable)',
+    'name' : 'Custom theme readable',
     'version' : '1.0.0',
     'author' : 'SEZAM',
     'category' : 'Theme',
