@@ -1,10 +1,10 @@
 {
-    'name' : 'Custom menu bar (orange)',
+    'name' : 'Custom theme readable)',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
-    'category' : 'Tools',
-    'website' : 'https://yelizariev.github.io',
-    'description': """
+    'author' : 'SEZAM',
+    'category' : 'Theme',
+    'website' : 'https://obchod.sezam.eu',
+    'description': """Theme to match front and backend
 
     """,
     'depends' : ['base'],
