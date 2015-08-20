@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "website_sale_category_description",
+    'name': "Ecommerce product category desription",
 
     'summary': """
         Show a full description of product category on ecommerce website when displaying a category""",
