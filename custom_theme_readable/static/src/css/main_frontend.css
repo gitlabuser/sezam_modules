@@ -51,6 +51,10 @@ a {
     color: #0B4AD1;
     text-decoration: none;
 }
+.navbar-inverse {
+    background-color: #EEE;
+    border-color: transparent;
+}
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: #0B4AD1;
     background-color: transparent;
